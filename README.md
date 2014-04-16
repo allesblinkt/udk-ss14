@@ -1,4 +1,3 @@
-udk-ss14
-========
+## Polyptych 
 
-udk-ss14
+### From parametric arts to plastic toy look-alikes
