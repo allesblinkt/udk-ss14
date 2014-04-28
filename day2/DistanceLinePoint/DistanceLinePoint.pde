@@ -35,6 +35,7 @@ void draw() {
 
 /**
  * Calculates the distance of a point to a given line segment in 2D
+ * Stolen from: http://paulbourke.net/geometry/pointlineplane/
  * 
  * @param theA the first point of the line segment
  * @param theB the second point of the line segment

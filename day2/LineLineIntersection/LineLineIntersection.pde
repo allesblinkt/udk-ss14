@@ -36,6 +36,7 @@ void draw() {
 
 /**
  * Calculates the intersection point of two lines, if they do intersect
+ * Stolen from: http://paulbourke.net/geometry/pointlineplane/
  * 
  * @param theFirstA the first point of the first line segment
  * @param theFirstB the second point of the first line segment
